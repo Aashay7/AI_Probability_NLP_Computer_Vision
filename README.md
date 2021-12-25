@@ -1,6 +1,4 @@
-# CSCI-B551 FA2021 Assignment 3 Probability, NLP, and computer vision
-
-## Group Members: Aashay Gondalia (aagond), Harsh Atha (hatha), Sai Hari Chandan Morapakala (saimorap)
+# Probability, NLP, and computer vision
 
 ## Part 1: Part-of-speech tagging
 
